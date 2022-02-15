@@ -16,10 +16,10 @@ app.use('/users', userRoutes);
 # Create a new user in json.<br>
 ![image](https://imgur.com/2C3u3BF.png)
 
-# Return a json with the especific user by his id. (id provided by uuidv4)<br>
+# Return a json with the specific user by his id. (id provided by uuidv4)<br>
 ![image](https://imgur.com/7Al5Brt.png)
 
-# Delete especific user.<br>
+# Delete specific user.<br>
 ![image](https://imgur.com/VLDMnpu.png)
 
 # Update user.<br>
