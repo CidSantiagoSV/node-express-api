@@ -2,6 +2,11 @@
 Api rest in node.js and express
 
 
+# About
+A simple Rest API using node.js and express. Full CRUD included.
+
+# How to use
+
 Routes:
 app.use('/users', userRoutes);
 
